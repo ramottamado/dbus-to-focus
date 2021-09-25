@@ -1,0 +1,9 @@
+{
+  "name": "DBus To Focus",
+  "description": "Provides DBus method to focus app, alternative for wmctrl",
+  "uuid": "dbus-to-focus@ramottamado.dev",
+  "shell-version": [
+    "41"
+  ],
+  "url": "https://github.com/ramottamado/dbus-to-focus"
+}
