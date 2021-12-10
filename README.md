@@ -1,4 +1,4 @@
-# DBus TO Focus GNOME Shell Extension
+# DBus To Focus GNOME Shell Extension
 
 This extension provides dbus method to focus app window on GNOME Shell by their `WM_CLASS` property (similar like `wmctrl -xa`).
 
