@@ -1,0 +1,10 @@
+{
+  "name": "Focus WMClass",
+  "description": "Provides DBus method to focus app window by wm_class, alternative for wmctrl",
+  "uuid": "focus-wmclass@ramottamado.dev",
+  "shell-version": [
+    "41",
+    "42"
+  ],
+  "url": "https://github.com/ramottamado/gnome-shell-focus-wmclass"
+}
