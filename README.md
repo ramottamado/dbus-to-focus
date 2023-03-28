@@ -6,7 +6,7 @@ This extension provides dbus method to focus app window on GNOME Shell by their 
 
 ```sh
 git clone git://github.com/ramottamado/gnome-shell-focus-wmclass.git
-cd dbus-to-focus
+cd gnome-shell-focus-wmclass
 make install
 ```
 
